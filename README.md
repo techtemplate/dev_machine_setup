@@ -1,7 +1,7 @@
-== dev_machine_setup
+## dev_machine_setup
 
 Babushka scripts to set up a dev environment
 
-== ToDo:
+## ToDo:
 
 * Write a gist to bootstrap the whole thing without needing git
